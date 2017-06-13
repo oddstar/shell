@@ -1,6 +1,6 @@
 #!/bin/bash
 
-DM="http://www.zallhy.com"
+DM="http://www.XXX.com"
 
 function log()
 {
